@@ -33,7 +33,7 @@ Welcome to the **Crop Disease Detection project!** This Django-based web applica
 
 ```bash
 git clone https://github.com/LungsomLamnio/Crop_Disease_Detection_Model.git
-cd crop-disease-detection
+cd Crop-Disease-Detection_Model
 ```
 
 ### 2️⃣ Install Dependencies

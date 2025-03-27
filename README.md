@@ -70,7 +70,7 @@ Access the app at `http://127.0.0.1:8000/`. 🎉
 
 ### 📸 Upload Page
 
-![Upload Page]([https://via.placeholder.com/800x400.png?text=Upload+Page](https://github.com/LungsomLamnio/Crop_Disease_Detection_Model/blob/main/images/potatoEarlyBlight.jpeg))
+![Upload Page](https://github.com/LungsomLamnio/Crop_Disease_Detection_Model/blob/main/images/potatoEarlyBlight.jpeg)
 
 ---
 
